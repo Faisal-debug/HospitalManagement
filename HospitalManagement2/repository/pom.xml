@@ -8,4 +8,12 @@
   <artifactId>repository</artifactId>
   <name>repository</name>
   <packaging>jar</packaging>
+  <dependencies>
+  <dependency>
+  <groupId>com.HM</groupId>
+    <artifactId>domain</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <type>jar</type>
+  </dependency>
+  </dependencies>
 </project>
